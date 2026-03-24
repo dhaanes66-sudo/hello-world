@@ -26,6 +26,7 @@ int main() {
         buzzer = 0;
         printf("LED is OFF\n");
         printf("Buzzer is OFF\n");
+        printf("LED is OFF\n");
     }
     
     return 0;
